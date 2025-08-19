@@ -1,4 +1,4 @@
-# Linux Playground 🐧
+# ShellCraft 🐧
 
 Notes, scripts, and experiments from my Linux learning journey.  
 Currently working through **OverTheWire Bandit** and building small shell scripts.
